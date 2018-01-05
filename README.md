@@ -13,7 +13,8 @@ Hi, Welcome! You've found your way to my modeling detritus. I'm not a profession
 
 ## Rupert
 After making several robots and static things, I was encouraged to work on a more organic model. Rupert is the result.
-![Rupert](https://github.com/StickAndBindleGames/Modeling/blob/master/Rupert.png?raw=true)
+![Rupert1](https://github.com/StickAndBindleGames/Modeling/blob/master/Rupert.png?raw=true)
+![Rupert2](https://github.com/StickAndBindleGames/Modeling/blob/master/InProgress.png?raw=true)
 
 ---
 
