@@ -2,7 +2,7 @@
 
 ---
 
-Hi, welcome! You've found your way to my modeling detritus. I'm not a professional 3D modeler or artist by any means, but it's something I enjoy learning to do from time to time. Here are some of the things I've worked on (They get progressively worse as you scroll down :P ).
+Hi, welcome! You've found your way to my modeling detritus. I'm not a professional 3D modeler or artist by any means, but it's something I enjoy learning to do from time to time. Here are some of the things I've worked on (they get progressively worse as you scroll down :P ).
 
 ---
 
