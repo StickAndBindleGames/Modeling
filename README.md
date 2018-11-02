@@ -38,4 +38,5 @@ This was my first swing at zbrush. I think I'm in love with this program.
 
 ## ZBrush Test 2
 * ZBrush  
+I corrupted something mid-way through this and never finished it. But, still like it.
 ![cthulhu](https://github.com/StickAndBindleGames/Modeling/blob/master/lilCthulhu2.png?raw=true)
